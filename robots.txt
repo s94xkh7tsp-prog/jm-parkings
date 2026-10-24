@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jm-parking-charleroi.netlify.app/sitemap.xml
